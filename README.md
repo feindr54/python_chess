@@ -1,2 +1,2 @@
-# python_chess
-CX's attempt into programming chess in python
+# python_chess (WIP)
+CX's attempt into programming chess in python. 
